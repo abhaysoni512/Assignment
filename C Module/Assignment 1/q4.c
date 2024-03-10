@@ -1,11 +1,10 @@
 #include<stdio.h>
 int main(){
-	int main
-
-	printf("*");
-	printf("\n**");
-	printf("\n***");
-	printf("\n*****");
+/*	printf("*\n");
+	printf("**\n");
+	printf("***\n");
+	printf("*****\n");*/
+	printf("*\n**\n***\n****\n");
 	return 0;
 
 }
