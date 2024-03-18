@@ -1,0 +1,6 @@
+*.out
+*.o
+Makefile
+demo.c
+.DS_Store
+q20_b.c
